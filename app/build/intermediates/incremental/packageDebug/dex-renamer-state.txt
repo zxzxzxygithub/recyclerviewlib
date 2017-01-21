@@ -1,0 +1,7 @@
+#Sat Jan 21 16:58:08 CST 2017
+base.0=C\:\\Users\\Admin\\Downloads\\Demo_recyclerview_blog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3bcffc4f6c0f1e4f66cebc474afdada8cddff897
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Admin\\Downloads\\Demo_recyclerview_blog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_caa45bab380dda1030fffe9df638927597bbcb60\\classes.dex
+base.1=C\:\\Users\\Admin\\Downloads\\Demo_recyclerview_blog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_caa45bab380dda1030fffe9df638927597bbcb60
+file.0=C\:\\Users\\Admin\\Downloads\\Demo_recyclerview_blog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3bcffc4f6c0f1e4f66cebc474afdada8cddff897\\classes.dex
